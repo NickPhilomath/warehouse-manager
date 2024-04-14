@@ -1,12 +1,14 @@
 finished project task by @NickPhilomath
 
 # Set up project
+- setup postgres and postman
 - install poetry `pip install poetry`
 - install dependencies using poetry `poetry install`
 - migrate `poetry run python manage.py migrate`
 - and finally run the server `poetry run python manage.py runserver`
 
 you can visit localhost on port 8000
+
 main api urls:
 - `/api/product-info`
 - `/api/products/products`
