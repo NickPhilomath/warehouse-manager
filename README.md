@@ -11,10 +11,10 @@ you can visit localhost on port 8000
 
 main api urls:
 - `/api/product-info`
-- `/api/products/products`
-- `/api/products/materials`
-- `/api/products/product-materials`
-- `/api/products/partial-warehouse`
+- `/api/products`
+- `/api/materials`
+- `/api/product-materials`
+- `/api/partial-warehouse`
 
 you can configure database in `.env` file
 
